@@ -7,6 +7,7 @@ Welcome to MightyMeld core! This repo serves as our primary way of tracking bugs
 ## We ❤️ feedback
 Help move MightyMeld forward by sharing your insight and experience:
  - [Open a GitHub issue](https://github.com/mightymeld/core/issues/new/choose)
+ - [Submit private feedback](https://www.mightymeld.com/feedback)
  - [Drop by the MightyMeld Support Page](https://www.mightymeld.com/support)
 
 
